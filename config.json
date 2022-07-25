@@ -1,0 +1,255 @@
+{
+  "Config": [
+    {
+      "interval": 2,
+      "backup": "ironsource",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": true,
+      "maps": true,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294xxx",
+      "admob_banner": "ca-app-pub-9730108346595961/8854770002",
+      "admob_inter": "ca-app-pub-9730108346595961/1412444003",
+      "admob_native": "ca-app-pub-9730108346595961/2661946491",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "15b72e885",
+      "ironsource_inter": "15b72e885",
+
+      "fan_banner":"1769372433272963_1769406783269528",
+      "fan_inter":"1769372433272963_1769407089936164",
+      "fan_native":"1769372433272963_1769407183269488"
+      
+    }
+  ],
+  "Addon": [
+    {
+        "name": "LiL's Keplerians Horror Addon v5",
+        "role": "Do you love playing Horror games? Killer Games? Then this is the right Addon for you! This addon adds Keplerians Horror Games Characters to your world, they will attempt to kill you and chase you so find a place to hide!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/ice scream/4/lima.jpeg",
+        "file_url": "https://kossandroid.com//Data Android/Minecraft/ice scream/4/LiLs_Keplerians_Horror_Addon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ice scream/4/empat.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ice scream/4/dua.jpeg"
+    },
+    {
+        "name": "Ice Scream Horror Addon V2",
+        "role": "Ice Scream Rod is coming to turn you into Ice Cream!!!He kidnaps childrens and make it chubby with his special Ice Cream!!!He has a Freezing Breath to freeze you and Lot of Minirods like a army.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/ice scream/5/lima.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/ice scream/5/Ice_Scream_Horror_Addon_by_Vince_Louis_and_Subscribe.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ice scream/5/enam.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ice scream/5/empat.png"
+    },
+    {
+        "name": "Keplerians Horror v4.1 Addon - Bug Fixes and Improvements",
+        "role": "Do you love playing Horror games? Killer Games? Then this is the right Addon for you! This addon adds Keplerians Horror Games Characters to your world, they will attempt to kill you and chase you so find a place to hide!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/ice scream/1/enam.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/ice scream/1/Keplerians_Addon_v4.1_BugFixes.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ice scream/1/empat.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ice scream/1/dua.jpeg"
+    }
+  ],
+  "Map": [
+    {
+        "name": "Ice Scream 4 Rebuilt",
+        "role": "You Know Ice Scream Game Right? if you dont know, well its a horror game that you need to save the kid kidnapped by a ice cream man by solving puzzles and then dont get caught! game made by keplerians, download the game on playstore!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/ice scream/3/satu.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/ice scream/3/iceScream5fanv3.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ice scream/3/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ice scream/3/dua.jpeg"
+    },
+    {
+        "name": "Ice Scream 1 In MCBE (Horror)",
+        "role": "This map is based on a popular mobile horror game named Ice scream horror neighbourhood. It was originally made by Keplerians team, and now it's been recreated in Minecraft bedrock edition as a horror map. What's the story? A boy named Charlie, was captured and frozen by an evil ice cream maker called Rod. Your main task is to rescue the boy alive without getting caught by Rod, and you will need to find the right items in order to help Charlie. How many players can the map support? It's recommended to play the map with no more than 3 players or the map could lag. I hope you like it.😊",
+        "image": "https://kossandroid.com/Data Android/Minecraft/ice scream/2/tiga.png",
+        "file_url": "https://kossandroid.com//Data Android/Minecraft/ice scream/2/IceScreamMCBE.mcworld",
+        "imgcoversatu": "https://kossandroid.com/ata Android/Minecraft/ice scream/2/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ice scream/2/dua.png"
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/-1w1EKtxm5c6tFnytzxjmz0nqIRu_I0LPojor7MPbZQlpLvgG_tFnaxgAhCHYGP1GaSJ-a6nOPsbucbcG33rWzrifTXTHaoRGo0",
+    "view_skin": "https://lh3.googleusercontent.com/Y9VIGhZNoTXmTW4x5oZboHGnAWIlkg5Js509z7nPcBKyMI8tkgODJaQlIjuqzBiihQBfrUupsS3ddfLWlqUgNUoz3Gyg1V4kKJc"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/N3B_llPc_iIj1ViGh8sEyPHkethiH6uK8Svut0mgWgp9qE_kW_X3qpCwxy9oFX4flMtugzvVv0Mfd0tbrkzN3VoWtLK3I6jpr3o",
+    "view_skin": "https://lh3.googleusercontent.com/0yz0d4UlXRZ9RHq6TkQlwII8gIQAjCt__DiTSDe_-JP5dv5K968DBA658hk_oJybxqK3wzgLC9tSa12A6mCCj7D6B4h0HbiDCAiQ"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/zqra8p2KDll4pUMNOmc4URldgo7wdxEOnSIDS3YSGaSU53rnId3U2K4XaEm72336LOKS3e_T2SC9SNXccgaR0XwpRp1LsugftP0",
+    "view_skin": "https://lh3.googleusercontent.com/HpHrndwEixt4l_EpEPFGDuv8Drdt4XIZEROXngScO4yyhJhXvMvhUusRnh-GdnL30WMfNYnBDVCd5G310vw1fVszusPZcgbXPw"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/ZEBLEAtyfKdunf_YXsfzJahdjUYfqDoSNivc3ERM3wJA5D1z2OGVaod4Z5kIAtvab4bVgOSLUg6t-WulWsBaoeHsXIt46vRfb5Cc",
+    "view_skin": "https://lh3.googleusercontent.com/KcC_LYLVed0mwsOY2daEhgXOaxAHGofYo05X_ILXHwDdvlScCGACKqPjjXLXuhAASxul7HnIfrZYbeoEUrdAtAZCjXGfCpJ6vMA"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/RPpjfQpIh8YRt-EnpwZ9OMuNBMu_TWPwWkQ4dSH-UrN5igBzLHXzXUDf7v8TuBcGkT2b5EXbU8ZG2ZnG6CpNT-g",
+    "view_skin": "https://lh3.googleusercontent.com/WIm30eZZ8fkM703IfstHayacJOTf2eDeJHNiq00klsfv05KVnICFc96qckblustJ29QdBgfDsrSpgYYlofpY"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/ibv13tNhhma-RtWxUXuMCi6QqgBCUY5-o1Ubwi6GxvHx79Bo97rqCdQeLq7LOTTrHyG-W71MSfg44ZCHSIJQkrI",
+    "view_skin": "https://lh3.googleusercontent.com/rGwr-WFZXDIBy63BxdaCNfY9m9y0GgC2p7hlSF-Tf4SZFxK-c0kJIrV4zecS6Wo-uWZwjXUt44svTC_PZx1KZjHQ5pl6Jkw3d58"
+  },
+  {
+    "id": 7,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/Vv04tv8cKlxUXCR9p-F7JVbAspVawCYOYf__9MJ-p546XzHKZnQjknAFnuI5SMTa2S-eflsi0Q7tMDl1I9QqErw",
+    "view_skin": "https://lh3.googleusercontent.com/Jf2-S2gnnJSk5BSa-qjgf7YAoqeNC6Wjvv7zuXTIdgUpc_C3XkTRIknG4LdoeZA1LkHeRPbXT77HUf0O8PCtGA"
+  },
+  {
+    "id": 8,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/qdXuYKJOz9cWn3fOFxlKUSa_h2OtvmRaL53nbP7ZS2dHcdxaZg3lAVwEdCA9wGxjNqxuUzr95lnRZO3gIbDa3xXpqIsig-Bb-LA",
+    "view_skin": "https://lh3.googleusercontent.com/BmA8MDxo5HsyJJmEyIjjOpQhWzNYkkH0lSAQB0mVH9WMMzk3uhPcfzDth5kb6uGJIgl0aMg4ER3PxsCbPXkjCqFaJJKn3252K5g"
+  },
+  {
+    "id": 9,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/L5ugtyGTdjIO-uMDizRLNFsSx9QmKoO9YYyQJUMRZwcxt-ZMnAaVK4zhKa5T5VTdjRgwvbmHEWp3vD_hUuP8",
+    "view_skin": "https://lh3.googleusercontent.com/VzQfGt4E9YV0E7ccX08vnrV5VYFo20ToNJHwego_qpHIa79-7q5JojQ6m9jn2ZF_okIdE0KxQDBrfmDBInM45kw"
+  },
+  {
+    "id": 10,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/N6mpzqSnz8PqKnmOJlgO6H25_Jpsi6yvkWf86BL2_PdBgNEHKg3lLh3Gk2fra_DdbzStD2Uw2_RoJ3Eq0xz_nw",
+    "view_skin": "https://lh3.googleusercontent.com/dbBYvAvPShE1xn0dXKqfw7e4OgJFstljtybcIdsbWe_mvvwFSpHMEaikqSklJI_hAxvtM3sJHbArozyiqU0MkObEUFrhyWNapQ"
+  },
+  {
+    "id": 11,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/E5MyCamZM5HrJKLYbXRja5PPyzTATOJUcj3JF_GZ-owNgWKK2KrnPmNJvK2FtK-4y9d8tjPXckrvzONh-cJ2z2SSeRpG-fJHzw",
+    "view_skin": "https://lh3.googleusercontent.com/bddXIdzec3mbmx5CJhthGoRCmftkx3JMxiblCDepZDLglA6zrTlZwdh6NQtUahrUxvxt1RMWz5BOCyCVC0rL8RfE50nD-cwPUgA"
+  },
+  {
+    "id": 12,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/OM_algzBS8g2CdIWC6sA57Sb6E_y_YL7TSsE7P6pvTZ1ygFFXIYJXhnpgLIsPvlvW4U3VStHfV42Kw-65-dvRQ",
+    "view_skin": "https://lh3.googleusercontent.com/zoD3mFolxjmze0tQUdL6HRdaxETAHL89hCXGSzdqt3lcdlHa1rx28BMHP9lY-jhAeJKxRfLxAcgC3tPUOC0K"
+  },
+  {
+    "id": 13,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/JBEspc5I9leiE5f00wZX9N_GHfmUmbiuzEgY8KvNSNjHFiee8-skodSE2Vfra8-Cxwcq1SA_yjwyVcqqL_Ej0OYNlKdXl5_fRZQ",
+    "view_skin": "https://lh3.googleusercontent.com/hGoIYQ15Swiu1u0GdVuDX1F6L4tdGM3l_DBxX21lfGi_g7l0mNWwQ0-sv0e0bBKlC0Xu56d4nyayabCfNKb_JlOnccApfsf050ga"
+  },
+  {
+    "id": 14,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/JP3Z9HLx_-SAKQMC2S5COAgvyM38HvNh0cAcJeWVdupyC1jk_eCa1w9ihBkxYFGjxjh93iu-P50I-L8fwxxjVaY",
+    "view_skin": "https://lh3.googleusercontent.com/gZy0cbl3uoD-E1e5-eNYqkpYv0BPGRnuA9yTgUFnoVVmrdcRrfM87apMPFRL5tU5BKNPP8euVMlLVJB9pe2T1Vk"
+  },
+  {
+    "id": 15,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/Jqk9OjbF-eIDOfIHDy28R_urRkk5DhFJqGVWBQHPMx1bQ-WBRvHAj6phs2ErzapbwReL793yRiZnmk_w4fea7pNA6A4TT3Frff3Q",
+    "view_skin": "https://lh3.googleusercontent.com/pFCMH-Krb2TbYvTN1xRdWhBkTTtAQqpJgnit4EaCrdUjz1vgZdC3_UJ0q1Z3LbfrhbJX9UZP1wYW9Uq_1oqhdHnitlT90l-VHrM"
+  },
+  {
+    "id": 16,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/ld9S-t6ZxDwPweYzjUik3lKn6OE9VT68w9F25nA_86r5vskD_vcJVv0U-R8dymy26mxKWCtlJR3WIaPex3EXx-1KLVhme3522Wbt",
+    "view_skin": "https://lh3.googleusercontent.com/RfgH8jIKH302GqOCoUk-2mD_JD4_wPjGiW4RspXq03kOe9kVHhF_0nTypo_icvmvVxCwRFHlxJvV6q5Qs8c-TXsGNTggIRnFDto"
+  },
+  {
+    "id": 17,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/N6mpzqSnz8PqKnmOJlgO6H25_Jpsi6yvkWf86BL2_PdBgNEHKg3lLh3Gk2fra_DdbzStD2Uw2_RoJ3Eq0xz_nw",
+    "view_skin": "https://lh3.googleusercontent.com/JAmAxB3RG8OjFj6CffIlgI_PHr9axoV-u7hzwlrqAOX_WkhroM29174fzw2qr0VPU6exAHjrmvSW9cjkuuqvlSp4zz0X8DPWMkc"
+  },
+  {
+    "id": 18,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/lHYuEinlTLoY-Hsy2_YcMIQPaTXzBG08s4ZqMCKi7ROUYiuBFWE74gePStwQZA53YGKp7m1HcXfQZcZ1nRbxxnhzlVgbOQ2ibZCE",
+    "view_skin": "https://lh3.googleusercontent.com/7YEve-CXiAqbQF4qfmtcr3WNPBd-NUwXQHcw9fOxPLM8Qy5h7arrNWqnRpwAiUNO-PRE-3t8riv_eqyqadPUnaNYjB1Fdf75bw"
+  },
+  {
+    "id": 19,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/jMvt1u2INnuhQ_LG8C3Zr4iQWr6SQvt_n_qMnV9aWEYMZQ8TWoP0RalTxfQq-x_Su0tZKX5Xs5KYPZr_8hT3w-g",
+    "view_skin": "https://lh3.googleusercontent.com/Li88CSttx_QDDADFqL2HvqQsYksL3cx-c4HbE573rgv2ZYoWieFMDCKaNt2YdjjJ--UQW0GcJ06b3Kl3uANd6A"
+  },
+  {
+    "id": 20,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/8UFZ8JCnIhtzL_bilj3SFOsRMdmeiPW2Wj01wtPeyK8V_s3DrXsc2YG8Nqe1t8LTWBNvogoWFMQTJnOlX1yUzQ",
+    "view_skin": "https://lh3.googleusercontent.com/CzqBLjvxNRkNhBEJfjC5CUDNtgBhLzTzqcnNyIMstTBDPtpUgs2XnPMO8cz-xU8B4u0PKNtIs5QFdGJ-gwLX"
+  },
+  {
+    "id": 21,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/1Aa3UTPPWFBddgT2gxDEN09wFzh0IsFgRJoGVZKbRqqjXYOOxiZJAq37LA4l-tdU4QK8MiK9gNTuYAc_zy6k5H0",
+    "view_skin": "https://lh3.googleusercontent.com/Ca3QIvXNRjSUv2dTRiMoX7i3EiNzSXvLD-4FKdmJ4jGt-_tjzY1q5hUacQpYWMTSuOwDe-Y4vsU4BCbh1pX5abs"
+  },
+  {
+    "id": 22,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/bizUe26scFCvGyBo5C7GjhKvG8wYuevt3qzVuUk2ZIc0GG9gX58fw35SLDJ07f7LRc0n2wcKHW8C3EtviYE5gWk",
+    "view_skin": "https://lh3.googleusercontent.com/el6NmoTEwPxzDp9K0ePA2pDwQUuED2OKop7Mn4F6BJ6jsqMDrjs03nL4-Jevs6Da0iq8qTev6RczGss3luU2kg"
+  },
+  {
+    "id": 23,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/thApvDhEiI7A9O-mz4T3qArsGQ0iG8bF9i9INcDCz400z3X6WqzHrDhost3890L7uq59_I__wqUbZ7qZDiGS",
+    "view_skin": "https://lh3.googleusercontent.com/zVYo9Hs5MrvezV2qtgK8Ky8RbqM8kPe_vPz05u39ewEQJNNYXGrrlD_o5uDAUePq1O8Bu7OIgaqLiQ7Nol9JrQ"
+  },
+  {
+    "id": 24,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/8hVKsz6WqcpREt4A3gAV5fgLtzK8n4lbwHjXElRrB74kCvrcX0bGV5Z-D5W_DTZdZ1ULBgfKi49oDxi5TlTdoG3yB-dUKX65rg",
+    "view_skin": "https://lh3.googleusercontent.com/ueO3XT4hiIJbBCyR8V53_mmfbjvq3n7RARIfo_ZUNpf7OaHDqfBFkmrnUweAe_YVNFaO2QxTTwF7Pmf4LfQcemCGVgbcPf1hMhU"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
